@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "nodenext",
+		"target": "ES2022",
+		"esModuleInterop": true,
+		"noImplicitAny": true,
+		"outDir": "dist",
+		"rootDir": "src"
+	},
+	"include": [
+		"src/**/*.ts"
+	]
+}
